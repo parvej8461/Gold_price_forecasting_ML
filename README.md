@@ -84,6 +84,5 @@ The notebook includes:
 
 ---
 
-Would you like me to tailor this README to **include your actual GitHub username** and a **short project image or sample plot section** (so your repo looks polished)?  
-If you give me your GitHub username, I’ll finalize it for you.
+
 
